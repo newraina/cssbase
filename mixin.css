@@ -1,0 +1,13 @@
+
+@define-mixin wordblock {
+  text-overflow: ellipsis;
+  word-break: break-all;
+  overflow: hidden;
+}
+
+@define-mixin wordline {
+  text-overflow: ellipsis;
+  word-break: keep-all;
+  white-space: nowrap;
+  overflow: hidden;
+}
