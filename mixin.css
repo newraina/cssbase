@@ -11,3 +11,9 @@
   white-space: nowrap;
   overflow: hidden;
 }
+
+@define-mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
