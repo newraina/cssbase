@@ -1,20 +1,40 @@
 
-@media screen and (min-width: 320px) and (max-width: 339px) {
+@media screen and (min-width: 320px) and (max-width: 329px) {
   html { font-size: 16px; }
 }
 
-@media screen and (min-width: 340px) and (max-width: 374px) {
+@media screen and (min-width: 330px) and (max-width: 339px) {
+  html { font-size: 16.5px; }
+}
+
+@media screen and (min-width: 340px) and (max-width: 349px) {
   html { font-size: 17px; }
 }
 
-@media screen and (min-width: 375px) and (max-width: 400px) {
-  html { font-size: 18.75px; }
+@media screen and (min-width: 350px) and (max-width: 359px) {
+  html { font-size: 17.5px; }
 }
 
-@media screen and (min-width: 401px) and (max-width: 420px) {
-  html { font-size: 20.05px; }
+@media screen and (min-width: 360px) and (max-width: 369px) {
+  html { font-size: 18px; }
 }
 
-@media screen and (min-width: 421px) and (max-width: 420px) {
-  html { font-size: 21.05px; }
+@media screen and (min-width: 370px) and (max-width: 379px) {
+  html { font-size: 18.5px; }
+}
+
+@media screen and (min-width: 380px) and (max-width: 389px) {
+  html { font-size: 19px; }
+}
+
+@media screen and (min-width: 390px) and (max-width: 399px) {
+  html { font-size: 19.5px; }
+}
+
+@media screen and (min-width: 400px) and (max-width: 409px) {
+  html { font-size: 20px; }
+}
+
+@media screen and (min-width: 410px) and (max-width: 419px) {
+  html { font-size: 20.5px; }
 }
