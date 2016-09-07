@@ -6,7 +6,7 @@ const fs = require('fs')
 const start = 320
 const end = 420
 
-const bases = [320]
+const bases = [320, 375]
 const range = 10
 
 bases.forEach(base => {
